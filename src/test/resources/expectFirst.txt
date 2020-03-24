@@ -1,0 +1,16 @@
+ Всем доброго дня! Срочно ищем Java разработчика с переездом в Таллинн, с хорошим знанием английского. Ниже краткое описание вакансии.
+We are looking for you, a Senior Software Engineer, to help us build and operate the next generation of identity services that power security, identity and access management for all of company’s products. You get excited by the idea of having end-to-end ownership of services that process billions of requests per day. You enjoy iteratively delivering value to customers and you know that to take services to scale requires developing a complex distributed platform from ground up and are concerned with availability, throughput and latency. If you are a great problem solver who is super hungry to learn better ways of doing things and super pragmatic to do what’s best for the customers, we want to talk with you.
+Who?
+We are looking for motivated DevOps engineer who matched with following requirements:
+Expert level backend Java experience.
+Hands-on in at least one cloud platform: GCC, AWS, or Azure. You are able to both design and develop cloud-based systems and operate them in an automated fashion.
+Relational database expert. You know how to write fast queries, how to use transactions, how to tune indexes.
+What?
+As Identity engineer, you will:
+Write/test/deploy/monitor, our engineers are working with full DevOps model.
+Be part of code review process, keep codebase quality high.
+Improve, learn and grow, beside challenging technical environment we vacancy trainings and conference packages.
+Why?
+Identity team operates identity and access management platform - be responsible for one of the most critical pieces of company's service stack. Our services are handling tens and tens of thousands requests per second maintaining demanding SLAs. This environment is creating interesting technical challenges where our team really shines - come on board.
+Come join us!
+Salary: Negotiable, from 2900 euro (net)

@@ -1,0 +1,26 @@
+language: java
+jdk:
+  - openjdk11
+sudo: false # faster build
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+
+notifications:
+  email:
+    recipients:
+     - coderilya@gmail.com
+    on_success: never # default: change
+    on_failure: always # default: always
+
+addons:
+  postgresql: 9.6
+  apt:
+    packages:
+    - postgresql-9.6-postgis-2.3
+before_script:
+  - psql -c "ALTER USER postgres WITH PASSWORD 'password';" -U postgres
+
+env:
+  global:
+    - CODECOV_TOKEN="8465da2f-c1a6-45a1-a0c9-a2790309f93b"
