@@ -20,7 +20,3 @@ addons:
     - postgresql-9.6-postgis-2.3
 before_script:
   - psql -c "ALTER USER postgres WITH PASSWORD 'password';" -U postgres
-
-env:
-  global:
-    - CODECOV_TOKEN="8465da2f-c1a6-45a1-a0c9-a2790309f93b"
